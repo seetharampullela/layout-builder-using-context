@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.configuration-bg {
+  background-color: #475569;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+}
+.layout-heading {
+  color: white;
+  margin-left: 20px;
+}
+.label-element {
+  color: white;
+  margin-left: 5px;
+}
+.layout-element-container {
+  margin-left: 20px;
+  padding: 5px;
+}
